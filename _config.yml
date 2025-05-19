@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ziyi Tang / Homepage"
+title                    : "your name / site title"
 title_separator          : "-"
 name                     : &name "Ziyi Tang"
 description              : &description "personal description"
